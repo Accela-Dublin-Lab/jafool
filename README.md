@@ -1,6 +1,7 @@
 # Apache Camel Introduction
 A small exposition of the uses, terminology and practice of the Apache Camel framework
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/91be19bc544f4880a63be5334b4f93cd)](https://app.codacy.com/manual/sothach/jafool?utm_source=github.com&utm_medium=referral&utm_content=sothach/jafool&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/sothach/jafool.svg?branch=master)](https://travis-ci.org/sothach/jafool)
 [![Coverage Status](https://coveralls.io/repos/github/sothach/jafool/badge.svg?branch=master)](https://coveralls.io/github/sothach/jafool?branch=master)
 
